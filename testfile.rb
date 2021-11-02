@@ -1,0 +1,3 @@
+Test key
+AKIAIOSFODNN7EXAMPLE
+End Teest
