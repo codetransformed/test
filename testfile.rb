@@ -6,3 +6,6 @@ fd03ccb1c4c5cbe461cd52a4293cc701290cf5bf350c3e16c5be80b069e85da5b63341b85c5e2b89
 
 config.secret_key = 'cd03ccb1c4c5cbe461cd52a4293cc701290cf5bf350c3e16c5be80b069e85da5b63341b85c5e2b89c453b8d498cfeccd9d493dd48c90abfc220ca6f65e36ab9b'
 End Test
+
+ Access keys consist of two parts: an access key ID (for example, <code>AKIAIOSFODNN7EXAMPLE</code>)
+    /// and a secret access key (for example, <code>wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY</code>).
